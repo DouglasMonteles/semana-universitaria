@@ -40,6 +40,9 @@ function App() {
 
   return (
     <>
+      <h1 className="text-center font-bold mt-4 text-3xl">
+        Planejador de horas para a semana universitária
+      </h1>
       {(!isCalcOption) ? (
         <div className="flex items-center justify-center gap-4 h-screen w-full">
           <div className="flex flex-row mx-16 p-4 border-2">
