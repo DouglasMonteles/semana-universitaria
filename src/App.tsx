@@ -69,7 +69,7 @@ function App() {
 
               <div className="text-center">
                 <Button
-                  text="Adicionar Ponto Turístico"
+                  text="Adicionar Curso/Evento"
                   onClick={handleAddNewTouristSpot}
                 />
               </div>
